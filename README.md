@@ -1,1 +1,1 @@
-Deploued link https://mp-leon.herokuapp.com/
+Deployed link https://mp-leon.herokuapp.com/
